@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data engineering and MLOps**
 
-- 👯 I’m looking to collaborate on **associative ethical data projects**
+- 👯 I’m looking to collaborate on **associative 'data for good' projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/outinim/portfolio](https://github.com/outinim/portfolio)
 

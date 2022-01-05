@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehdi Outini</h1>
-<h3 align="center">A passionate data scientist</h3>
+<h3 align="center">A passionate data science engineer</h3>
 
 - 🔭 I’m currently working at [pretto](https://www.pretto.fr/)
 

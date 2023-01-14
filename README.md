@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [pretto](https://www.pretto.fr/)
 
-- 🌱 I’m currently learning **Machine Learning Engineering (MLOps)**
+- 🌱 I’m currently using **Machine Learning Engineering (MLOps) and Data Engineering** techniques
 
 - 👯 I’m looking to collaborate on **associative 'data for good' projects**
 

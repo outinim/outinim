@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehdi Outini</h1>
-<h3 align="center">A passionate data science engineer</h3>
+<h3 align="center">A passionate data engineer</h3>
 
-- 🔭 I’m currently working at [pretto](https://www.pretto.fr/)
+- 🔭 I’m currently working at [carbone4](https://www.carbone4.com/)
 
 - 🌱 I’m currently using **Machine Learning Engineering (MLOps) and Data Engineering** techniques
 
